@@ -15,3 +15,6 @@ There is data missing:
 - Reason for delay
 - Delay (minutes)
 - Details (raw delay data from WMATA)
+
+# Warranty Clause
+The raw dataset this repository is based on is available unformatted and free of charge by WMATA. There are no guarantees or warranties expressed by this processed dataset, and there are likely to be errors. Commits or notes about missing/errant data are greatly appreciated!
